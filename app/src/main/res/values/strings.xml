@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="fascinated">be fascinated</string>
+    <string name="delighted">BE Delighted</string>
+    <string name="location">Studiestræde 14, 1455 Copenhagen</string>
+    <string name="hours">Fri: 16.00 - 05.00 Sat: 20.00 - 05.00 </string>
+    <string name="link"><a href="https://www.blumecph.dk/">BlumeCPH.dk</a></string>
+    <string name="description">Step through the entrance to the enchanted land of Blume and experience a party that will keep you bedazzled all night long. High level innovative cocktails and extraordinary service, combined with intimate sorroundings and a distinct music profile will ensure the remarkable party.</string>
+</resources>
