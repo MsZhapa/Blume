@@ -1,9 +1,11 @@
 <resources>
-    <string name="app_name"></string>
-    <string name="fascinated">be fascinated</string>
-    <string name="delighted">BE Delighted</string>
-    <string name="location">Studiestræde 14, 1455 Copenhagen</string>
-    <string name="hours">Fri: 16.00 - 05.00 Sat: 20.00 - 05.00 </string>
-    <string name="link"><a href="https://www.blumecph.dk/">BlumeCPH.dk</a></string>
-    <string name="description">Step through the entrance to the enchanted land of Blume and experience a party that will keep you bedazzled all night long. High level innovative cocktails and extraordinary service, combined with intimate sorroundings and a distinct music profile will ensure the remarkable party.</string>
+    <string name="app_name">Blume</string>
+    <string name="fascinated">Be Fascinated</string>
+    <string name="delighted">Be Delighted</string>
+    <string name="there">Be there </string>
+    <string name="location">Studiestræde 14, \n1455 Copenhagen</string>
+    <string name="hours">Fri: 16.00 - 05.00 \nSat: 20.00 - 05.00 </string>
+    <string name="description2">Extraordinary cocktails - all night! Nonetheless, at Blume the music profile aims toward an original, and sustainable vibe provided by the everlasting genres of disco, funk and electronic music. Sooooooo.. Stop by, and make sure to wear shoes suitable for dancing, you will need them! </string>
+    <string name="link">Book a Table!</string>
+    <string name="description">Step through the entrance to the enchanted land of Blume and experience a party that will keep you bedazzled all night long. High level innovative cocktails and extraordinary service, combined with intimate surroundings and a distinct music profile will ensure the remarkable party. Come and join us!</string>
 </resources>
